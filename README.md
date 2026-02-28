@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=1a1a1a&center=true&vCenter=true&width=400&lines=who+is+this+guy+%3F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=3000&color=1a1a1a&center=true&vCenter=true&width=400&lines=who+is+this+guy+%3F" />
 </div>
 
 ###
@@ -48,7 +48,7 @@ I stay anonymous. The work speaks for itself.<br/>
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=1a1a1a&center=true&vCenter=true&width=500&lines=what+i+have+built+so+far" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=3000&color=1a1a1a&center=true&vCenter=true&width=500&lines=what+i+have+built+so+far" />
 </div>
 
 ###
@@ -103,7 +103,7 @@ and I consider it one of my finest achievements as a developer.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=1a1a1a&center=true&vCenter=true&width=300&lines=my+stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=3000&color=1a1a1a&center=true&vCenter=true&width=300&lines=my+stack" />
 </div>
 
 ###
@@ -122,7 +122,7 @@ and I consider it one of my finest achievements as a developer.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=1a1a1a&center=true&vCenter=true&width=300&lines=my+stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=3000&color=1a1a1a&center=true&vCenter=true&width=300&lines=my+stats" />
 </div>
 
 ###
