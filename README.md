@@ -29,15 +29,17 @@
 
 <div align="center">
 
-I build tools. Most of what I make starts as a personal problem<br/>
-I got tired of working around, and at some point it felt wrong to keep it private.<br/><br/>
+I build tools. Most of what I make starts as a personal problem I got tired of working around,<br/>
+and at some point it felt wrong to keep it private. So here we are.<br/><br/>
 I started as a music producer and ended up writing more code than playing chords.<br/>
-Somewhere along the way the two got tangled together, and now most of what I build<br/>
-lives somewhere in between: tools for producers, scripts that poke at the internet,<br/>
-converters and utilities that should have existed already and somehow didn't.<br/><br/>
-I don't have a brand. I don't have a niche. I just see something missing, find it annoying<br/>
-enough, and build it. Then I put it here in case someone else finds it useful.<br/><br/>
-I stay anonymous. The work speaks for itself.
+Somewhere along the way the two got tangled together and I never really untangled them.<br/>
+I now build tools for producers, scripts that poke at the internet,<br/>
+and utilities that should have existed already but somehow didn't.<br/><br/>
+I don't have a brand. I don't have a niche. I don't have a LinkedIn.<br/>
+I see something missing, find it annoying enough, build it, and put it here.<br/>
+In case someone else finds it useful. Or at least entertaining.<br/><br/>
+I stay anonymous. The work speaks for itself.<br/>
+(the work also has a terrible commit history but let's not talk about that)
 
 </div>
 
@@ -58,38 +60,41 @@ I stay anonymous. The work speaks for itself.
 A desktop app for producers who are tired of folders named `samples_FINAL_v3_USE_THIS`.<br/>
 You drop in a chaotic directory of kicks, snares, loops and synths and it comes out the other side<br/>
 sorted into 14 categories, renamed with a template you define, and ready to distribute or sell.<br/>
-Five distinct visual themes — Noir, Vapor, Acid, Studio, Lo-Fi — each with its own font pairing.<br/>
-Audio preview on hover, bulk assignment, one Python file, one dependency. That's the whole thing.
+Five distinct visual themes, audio preview on hover, one Python file, one dependency.<br/>
+I spent more time on the themes than on the actual logic. Worth it.
 
 <br/>
 
 [![Pixora](https://img.shields.io/badge/Pixora-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/Pixora)
 
 Drop any image, get real pixel art back.<br/>
-Not a filter, not a blur effect. Actual perceptual color quantization, Floyd-Steinberg dithering<br/>
-and smart auto pixel sizing that reads the content of the image before deciding on a resolution.<br/>
-Edge enhancement keeps the result sharp and readable even at small pixel sizes.<br/>
-No account, no upload to a server somewhere, no waiting. It runs on your machine, instantly.
+Not a filter, not a "make it look pixelated" button.<br/>
+Actual perceptual color quantization, Floyd-Steinberg dithering, smart auto pixel sizing.<br/>
+It reads the content of the image before deciding on a resolution, which sounds obvious<br/>
+and yet nobody else seemed to bother doing it.<br/>
+No account, no upload, no waiting. Runs on your machine. Done.
 
 <br/>
 
 [![IRIS](https://img.shields.io/badge/IRIS-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/IRIS)
 
 A multithreaded reconnaissance tool that scans random public IPs and surfaces exposed devices in real time.<br/>
-Cameras, routers, admin panels, live video streams, forgotten websites sitting wide open on the internet.<br/>
-IRIS sends plain HTTP requests at scale and classifies what comes back using a database of 57 signatures.<br/>
-Every hit is saved automatically. The internet is bigger and stranger than what Google shows you.<br/>
-IRIS finds what is just sitting there in plain sight, waiting for someone to look.
+Cameras, routers, admin panels, live streams, forgotten websites sitting wide open.<br/>
+IRIS sends plain HTTP requests at scale and classifies what comes back using 57 device signatures.<br/>
+People talk about the deep web like it requires Tor and a mystery password.<br/>
+The reality is that the most interesting stuff is just sitting on the regular internet,<br/>
+completely public, waiting for someone to look. IRIS looks.
 
 <br/>
 
 [![OrbsHacker](https://img.shields.io/badge/OrbsHacker-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/orbshacker)
 
-Discord added Orb quests that require you to play specific games to earn rewards.<br/>
-The games weigh anywhere from 30GB to 500GB. The reward is a cosmetic orb on Discord.<br/>
+Discord added quests that require you to play specific games to earn rewards.<br/>
+The games weigh anywhere from 30GB to 500GB.<br/>
+The reward is a small decorative orb on your Discord profile.<br/>
 OrbsHacker fakes the game processes so Discord thinks you are playing without installing anything.<br/>
-It is completely stupid, it took me a weekend, and it works perfectly.<br/>
-No regrets whatsoever.
+It is completely stupid, it took me a weekend, it works perfectly,<br/>
+and I consider it one of my finest achievements as a developer.
 
 </div>
 
@@ -124,12 +129,6 @@ No regrets whatsoever.
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=strykey&theme=dracula" width="750" alt="stats graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=strykey&theme=dark&hide_border=true&background=0a0a0a&ring=c8b89a&fire=c8b89a&currStreakLabel=c8b89a&sideLabels=e8e0d0&sideNums=c8b89a&currStreakNum=f5f0e8&dates=444444&stroke=1a1a1a" />
 </div>
 
 ###
