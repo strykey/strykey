@@ -136,5 +136,5 @@ and I consider it one of my finest achievements as a developer.
 ---
 
 <div align="center">
-  <sub>thanks for stopping by. go build something.</sub>
+  <sub>ima cat mhuehehe.</sub>
 </div>
