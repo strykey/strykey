@@ -96,6 +96,15 @@ OrbsHacker fakes the game processes so Discord thinks you are playing without in
 It is completely stupid, it took me a weekend, it works perfectly,<br/>
 and I consider it one of my finest achievements as a developer.
 
+<br/>
+
+[![Nebula](https://img.shields.io/badge/Nebula-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/nebula)
+A desktop game launcher for people who just want to play without the bloat.<br/>
+Browse a live catalog, download, extract and launch games from one clean frameless window.<br/>
+No account, no subscription, no nonsense. Everything lives in a single folder next to the exe.<br/>
+Built on Python and pywebview. One script, zero servers, runs entirely on your machine.<br/>
+I wrote the whole UI in embedded HTML because I refused to learn a proper GUI framework. No regrets.
+
 </div>
 
 ###
