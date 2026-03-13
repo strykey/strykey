@@ -54,6 +54,16 @@ I stay anonymous. The work speaks for itself.<br/>
 ###
 
 <div align="center">
+[![Dither Girl](https://img.shields.io/badge/Dither%20Girl-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/DitherGirl)
+
+Feed it a photo, pick one of 18 algorithms, move some sliders.<br/>
+It comes out the other side looking like it was printed in 1994 on a machine that was very tired.<br/>
+Full pre/post effects pipeline, a palette system that extracts colors directly from your image,<br/>
+live preview that never freezes, before/after toggle, presets, export in four formats.<br/>
+No cloud, no account, no nonsense. Every pixel processed on your machine in NumPy.<br/>
+I also gave it a mascot. Her name is Dither Girl. She has seen things.
+
+<br/>
 
 [![Sample Pack Assembler](https://img.shields.io/badge/Sample%20Pack%20Assembler-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/Sample-Pack-Assembler)
 
