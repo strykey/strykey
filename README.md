@@ -105,7 +105,7 @@ It comes out the other side looking like it was printed in 1994 on a machine tha
 Full pre/post effects pipeline, a palette system that extracts colors directly from your image,<br/>
 live preview that never freezes, before/after toggle, presets, export in four formats.<br/>
 No cloud, no account, no nonsense. Every pixel processed on your machine in NumPy.<br/>
-I also gave it a mascot. Her name is Dither Girl. She has seen things.
+I also gave it a mascot. Her name is Dither Girl :)
 
 <br/>
 
