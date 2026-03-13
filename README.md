@@ -109,6 +109,18 @@ I also gave it a mascot. Her name is Dither Girl :)
 
 <br/>
 
+[![PKA Decipher](https://img.shields.io/badge/PKA%20Decipher-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/pka-decipher)
+
+Cisco Packet Tracer locks its .pka files behind a full encryption pipeline.<br/>
+Twofish block cipher, CTR stream mode, CMAC authentication, EAX authenticated encryption.<br/>
+PKA Decipher reverses the whole thing, gives you the raw XML, lets you patch whatever you want,<br/>
+and writes it back to disk as a file Packet Tracer opens without complaining.<br/>
+Full crypto stack implemented from scratch in pure Python, zero dependencies.<br/>
+Also ships with a reference patcher that makes any activity open already at 100%,<br/>
+because sometimes you just want to see the topology without doing the homework.
+
+<br/>
+
 [![Nebula](https://img.shields.io/badge/Nebula-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/nebula)
 
 A desktop game launcher for people who just want to play without the bloat.<br/>
