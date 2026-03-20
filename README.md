@@ -76,6 +76,14 @@ No account, no upload, no waiting. Runs on your machine. Done.
 
 <br/>
 
+[![Trove](https://img.shields.io/badge/Trove-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=apple&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/Trove-Store)
+A web-based iOS app store that Apple forgot to build.<br/>
+Browse tweaked apps, emulators and utilities from curated AltStore sources, straight from your Home Screen.<br/>
+No account, no subscription, no nonsense.<br/>
+Just a mobileconfig, a JSON file, and a very strong opinion about what belongs on your iPhone.
+
+<br/>
+
 [![IRIS](https://img.shields.io/badge/IRIS-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/IRIS)
 
 A multithreaded reconnaissance tool that scans random public IPs and surfaces exposed devices in real time.<br/>
