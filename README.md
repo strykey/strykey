@@ -55,13 +55,14 @@ I stay anonymous. The work speaks for itself.<br/>
 
 <div align="center">
 
-[![Sample Pack Assembler](https://img.shields.io/badge/Sample%20Pack%20Assembler-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/Sample-Pack-Assembler)
+[![IG Voice DL](https://img.shields.io/badge/IG%20Voice%20DL-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=javascript&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/ig-voice-dl)
 
-A desktop app for producers who are tired of folders named `samples_FINAL_v3_USE_THIS`.<br/>
-You drop in a chaotic directory of kicks, snares, loops and synths and it comes out the other side<br/>
-sorted into 14 categories, renamed with a template you define, and ready to distribute or sell.<br/>
-Five distinct visual themes, audio preview on hover, one Python file, one dependency.<br/>
-I spent more time on the themes than on the actual logic. Worth it.
+A Tampermonkey script for people tired of not being able to save Instagram voice messages.<br/>
+Because Instagram won't let you. Because of course they won't.<br/>
+Hooks into fetch, XMLHttpRequest and HTMLMediaElement simultaneously, matches each intercepted URL<br/>
+to the right waveform bubble using duration as the only shared identifier between DOM and CDN.<br/>
+One button per bubble. One click. File in your downloads. 200 lines of vanilla JS you can read yourself.<br/>
+Instagram has 2 billion users and still won't let you save a voice message. Priorities.
 
 <br/>
 
