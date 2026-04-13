@@ -65,6 +65,16 @@ I spent more time on the themes than on the actual logic. Worth it.
 
 <br/>
 
+[![Sample Pack Assembler](https://img.shields.io/badge/Sample%20Pack%20Assembler-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/Sample-Pack-Assembler)
+
+A desktop app for producers who are tired of folders named `samples_FINAL_v3_USE_THIS`.<br/>
+You drop in a chaotic directory of kicks, snares, loops and synths and it comes out the other side<br/>
+sorted into 14 categories, renamed with a template you define, and ready to distribute or sell.<br/>
+Five distinct visual themes, audio preview on hover, one Python file, one dependency.<br/>
+I spent more time on the themes than on the actual logic. Worth it.
+
+<br/>
+
 [![Pixora](https://img.shields.io/badge/Pixora-%E2%86%92%20View%20Project-1a1a1a?style=for-the-badge&logo=python&logoColor=c8b89a&labelColor=111111)](https://github.com/strykey/Pixora)
 
 Drop any image, get real pixel art back.<br/>
